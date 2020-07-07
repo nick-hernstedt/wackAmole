@@ -1,2 +1,4 @@
 # wackAmole
-a wack a mole game built using javascript
+
+
+A wack a mole game built using javascript.
